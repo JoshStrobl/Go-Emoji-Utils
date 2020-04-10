@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"os"
 	"path"
 	"runtime"
 	"strings"
@@ -28,26 +27,30 @@ func init() {
 	}
 
 	// Open the Emoji definition JSON and Unmarshal into map
-	jsonFile, err := os.Open(path.Dir(filename) + "/data/emoji.json")
-	if jsonFile != nil {
-		defer jsonFile.Close()
+	runtimePath := path.Join(path.Dir(filename), "data", "emoji.json")
+	loadErr := LoadEmojiFile(runtimePath) // Attempt to load from the runtime path, if we fail we'll be using our built-in or called panic
+
+	if len(Emojis) == 0 { // If we don't have Emojis map content
+		panic(loadErr)
 	}
-	if err != nil && len(Emojis) < 1 {
-		fmt.Println(err)
+}
+
+// LoadEmojiFile will attempt to load and parse the provided full path to the emoji.json file
+// In the event we fail to read the file or fail to unmarshal, we will return an error
+func LoadEmojiFile(filepath string) (loadErr error) {
+	var jsonFileContents []byte
+	if jsonFileContents, loadErr = ioutil.ReadFile(filepath); loadErr != nil { // Attempt to read the file directly
+		return // Return with the loadErr if we failed to read the file
 	}
 
-	byteValue, e := ioutil.ReadAll(jsonFile)
-	if e != nil {
-		if len(Emojis) > 0 { // Use build-in emojis data (from emojidata.go)
-			return
-		}
-		panic(e)
+	var tempEmojis map[string]Emoji
+	loadErr = json.Unmarshal(jsonFileContents, &tempEmojis)
+
+	if len(tempEmojis) != 0 { // If we have emoji map contents
+		Emojis = tempEmojis // Override the Emojis map
 	}
 
-	err = json.Unmarshal(byteValue, &Emojis)
-	if err != nil {
-		panic(e)
-	}
+	return
 }
 
 // LookupEmoji - Lookup a single emoji definition

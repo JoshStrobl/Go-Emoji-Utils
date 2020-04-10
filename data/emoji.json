@@ -1467,7 +1467,7 @@
 	"1F303": {
 		"key": "1F303",
 		"value": "🌃",
-		"descriptor": "Night With Stars"
+		"descriptor": "Night with Stars"
 	},
 	"1F304": {
 		"key": "1F304",
@@ -1532,7 +1532,7 @@
 	"1F310": {
 		"key": "1F310",
 		"value": "🌐",
-		"descriptor": "Globe With Meridians"
+		"descriptor": "Globe with Meridians"
 	},
 	"1F311": {
 		"key": "1F311",
@@ -1602,7 +1602,7 @@
 	"1F31E": {
 		"key": "1F31E",
 		"value": "🌞",
-		"descriptor": "Sun With Face"
+		"descriptor": "Sun with Face"
 	},
 	"1F31F": {
 		"key": "1F31F",
@@ -1637,17 +1637,17 @@
 	"1F327-FE0F": {
 		"key": "1F327-FE0F",
 		"value": "🌧️",
-		"descriptor": "Cloud With Rain"
+		"descriptor": "Cloud with Rain"
 	},
 	"1F328-FE0F": {
 		"key": "1F328-FE0F",
 		"value": "🌨️",
-		"descriptor": "Cloud With Snow"
+		"descriptor": "Cloud with Snow"
 	},
 	"1F329-FE0F": {
 		"key": "1F329-FE0F",
 		"value": "🌩️",
-		"descriptor": "Cloud With Lightning"
+		"descriptor": "Cloud with Lightning"
 	},
 	"1F32A-FE0F": {
 		"key": "1F32A-FE0F",
@@ -1947,7 +1947,7 @@
 	"1F365": {
 		"key": "1F365",
 		"value": "🍥",
-		"descriptor": "Fish Cake With Swirl"
+		"descriptor": "Fish Cake with Swirl"
 	},
 	"1F366": {
 		"key": "1F366",
@@ -2067,12 +2067,12 @@
 	"1F37D-FE0F": {
 		"key": "1F37D-FE0F",
 		"value": "🍽️",
-		"descriptor": "Fork and Knife With Plate"
+		"descriptor": "Fork and Knife with Plate"
 	},
 	"1F37E": {
 		"key": "1F37E",
 		"value": "🍾",
-		"descriptor": "Bottle With Popping Cork"
+		"descriptor": "Bottle with Popping Cork"
 	},
 	"1F37F": {
 		"key": "1F37F",
@@ -2962,7 +2962,7 @@
 	"1F3D6-FE0F": {
 		"key": "1F3D6-FE0F",
 		"value": "🏖️",
-		"descriptor": "Beach With Umbrella"
+		"descriptor": "Beach with Umbrella"
 	},
 	"1F3D7-FE0F": {
 		"key": "1F3D7-FE0F",
@@ -3017,7 +3017,7 @@
 	"1F3E1": {
 		"key": "1F3E1",
 		"value": "🏡",
-		"descriptor": "House With Garden"
+		"descriptor": "House with Garden"
 	},
 	"1F3E2": {
 		"key": "1F3E2",
@@ -4182,7 +4182,7 @@
 	"1F468-1F3FB-200D-1F9AF": {
 		"key": "1F468-1F3FB-200D-1F9AF",
 		"value": "👨🏻‍🦯",
-		"descriptor": "Man With Probing Cane: Light Skin Tone"
+		"descriptor": "Man with White Cane: Light Skin Tone"
 	},
 	"1F468-1F3FB-200D-1F9B0": {
 		"key": "1F468-1F3FB-200D-1F9B0",
@@ -4322,7 +4322,7 @@
 	"1F468-1F3FC-200D-1F9AF": {
 		"key": "1F468-1F3FC-200D-1F9AF",
 		"value": "👨🏼‍🦯",
-		"descriptor": "Man With Probing Cane: Medium-Light Skin Tone"
+		"descriptor": "Man with White Cane: Medium-Light Skin Tone"
 	},
 	"1F468-1F3FC-200D-1F9B0": {
 		"key": "1F468-1F3FC-200D-1F9B0",
@@ -4462,7 +4462,7 @@
 	"1F468-1F3FD-200D-1F9AF": {
 		"key": "1F468-1F3FD-200D-1F9AF",
 		"value": "👨🏽‍🦯",
-		"descriptor": "Man With Probing Cane: Medium Skin Tone"
+		"descriptor": "Man with White Cane: Medium Skin Tone"
 	},
 	"1F468-1F3FD-200D-1F9B0": {
 		"key": "1F468-1F3FD-200D-1F9B0",
@@ -4602,7 +4602,7 @@
 	"1F468-1F3FE-200D-1F9AF": {
 		"key": "1F468-1F3FE-200D-1F9AF",
 		"value": "👨🏾‍🦯",
-		"descriptor": "Man With Probing Cane: Medium-Dark Skin Tone"
+		"descriptor": "Man with White Cane: Medium-Dark Skin Tone"
 	},
 	"1F468-1F3FE-200D-1F9B0": {
 		"key": "1F468-1F3FE-200D-1F9B0",
@@ -4742,7 +4742,7 @@
 	"1F468-1F3FF-200D-1F9AF": {
 		"key": "1F468-1F3FF-200D-1F9AF",
 		"value": "👨🏿‍🦯",
-		"descriptor": "Man With Probing Cane: Dark Skin Tone"
+		"descriptor": "Man with White Cane: Dark Skin Tone"
 	},
 	"1F468-1F3FF-200D-1F9B0": {
 		"key": "1F468-1F3FF-200D-1F9B0",
@@ -4932,7 +4932,7 @@
 	"1F468-200D-1F9AF": {
 		"key": "1F468-200D-1F9AF",
 		"value": "👨‍🦯",
-		"descriptor": "Man With Probing Cane"
+		"descriptor": "Man with White Cane"
 	},
 	"1F468-200D-1F9B0": {
 		"key": "1F468-200D-1F9B0",
@@ -4982,7 +4982,7 @@
 	"1F468-200D-2764-FE0F-200D-1F468": {
 		"key": "1F468-200D-2764-FE0F-200D-1F468",
 		"value": "👨‍❤️‍👨",
-		"descriptor": "Couple With Heart: Man, Man"
+		"descriptor": "Couple with Heart: Man, Man"
 	},
 	"1F468-200D-2764-FE0F-200D-1F48B-200D-1F468": {
 		"key": "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468",
@@ -5107,7 +5107,7 @@
 	"1F469-1F3FB-200D-1F9AF": {
 		"key": "1F469-1F3FB-200D-1F9AF",
 		"value": "👩🏻‍🦯",
-		"descriptor": "Woman With Probing Cane: Light Skin Tone"
+		"descriptor": "Woman with White Cane: Light Skin Tone"
 	},
 	"1F469-1F3FB-200D-1F9B0": {
 		"key": "1F469-1F3FB-200D-1F9B0",
@@ -5267,7 +5267,7 @@
 	"1F469-1F3FC-200D-1F9AF": {
 		"key": "1F469-1F3FC-200D-1F9AF",
 		"value": "👩🏼‍🦯",
-		"descriptor": "Woman With Probing Cane: Medium-Light Skin Tone"
+		"descriptor": "Woman with White Cane: Medium-Light Skin Tone"
 	},
 	"1F469-1F3FC-200D-1F9B0": {
 		"key": "1F469-1F3FC-200D-1F9B0",
@@ -5427,7 +5427,7 @@
 	"1F469-1F3FD-200D-1F9AF": {
 		"key": "1F469-1F3FD-200D-1F9AF",
 		"value": "👩🏽‍🦯",
-		"descriptor": "Woman With Probing Cane: Medium Skin Tone"
+		"descriptor": "Woman with White Cane: Medium Skin Tone"
 	},
 	"1F469-1F3FD-200D-1F9B0": {
 		"key": "1F469-1F3FD-200D-1F9B0",
@@ -5587,7 +5587,7 @@
 	"1F469-1F3FE-200D-1F9AF": {
 		"key": "1F469-1F3FE-200D-1F9AF",
 		"value": "👩🏾‍🦯",
-		"descriptor": "Woman With Probing Cane: Medium-Dark Skin Tone"
+		"descriptor": "Woman with White Cane: Medium-Dark Skin Tone"
 	},
 	"1F469-1F3FE-200D-1F9B0": {
 		"key": "1F469-1F3FE-200D-1F9B0",
@@ -5747,7 +5747,7 @@
 	"1F469-1F3FF-200D-1F9AF": {
 		"key": "1F469-1F3FF-200D-1F9AF",
 		"value": "👩🏿‍🦯",
-		"descriptor": "Woman With Probing Cane: Dark Skin Tone"
+		"descriptor": "Woman with White Cane: Dark Skin Tone"
 	},
 	"1F469-1F3FF-200D-1F9B0": {
 		"key": "1F469-1F3FF-200D-1F9B0",
@@ -5912,7 +5912,7 @@
 	"1F469-200D-1F9AF": {
 		"key": "1F469-200D-1F9AF",
 		"value": "👩‍🦯",
-		"descriptor": "Woman With Probing Cane"
+		"descriptor": "Woman with White Cane"
 	},
 	"1F469-200D-1F9B0": {
 		"key": "1F469-200D-1F9B0",
@@ -5962,12 +5962,12 @@
 	"1F469-200D-2764-FE0F-200D-1F468": {
 		"key": "1F469-200D-2764-FE0F-200D-1F468",
 		"value": "👩‍❤️‍👨",
-		"descriptor": "Couple With Heart: Woman, Man"
+		"descriptor": "Couple with Heart: Woman, Man"
 	},
 	"1F469-200D-2764-FE0F-200D-1F469": {
 		"key": "1F469-200D-2764-FE0F-200D-1F469",
 		"value": "👩‍❤️‍👩",
-		"descriptor": "Couple With Heart: Woman, Woman"
+		"descriptor": "Couple with Heart: Woman, Woman"
 	},
 	"1F469-200D-2764-FE0F-200D-1F48B-200D-1F468": {
 		"key": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468",
@@ -6167,47 +6167,47 @@
 	"1F46F": {
 		"key": "1F46F",
 		"value": "👯",
-		"descriptor": "People With Bunny Ears"
+		"descriptor": "People with Bunny Ears"
 	},
 	"1F46F-200D-2640-FE0F": {
 		"key": "1F46F-200D-2640-FE0F",
 		"value": "👯‍♀️",
-		"descriptor": "Women With Bunny Ears"
+		"descriptor": "Women with Bunny Ears"
 	},
 	"1F46F-200D-2642-FE0F": {
 		"key": "1F46F-200D-2642-FE0F",
 		"value": "👯‍♂️",
-		"descriptor": "Men With Bunny Ears"
+		"descriptor": "Men with Bunny Ears"
 	},
 	"1F470": {
 		"key": "1F470",
 		"value": "👰",
-		"descriptor": "Bride With Veil"
+		"descriptor": "Person With Veil"
 	},
 	"1F470-1F3FB": {
 		"key": "1F470-1F3FB",
 		"value": "👰🏻",
-		"descriptor": "Bride With Veil: Light Skin Tone"
+		"descriptor": "Person With Veil: Light Skin Tone"
 	},
 	"1F470-1F3FC": {
 		"key": "1F470-1F3FC",
 		"value": "👰🏼",
-		"descriptor": "Bride With Veil: Medium-Light Skin Tone"
+		"descriptor": "Person With Veil: Medium-Light Skin Tone"
 	},
 	"1F470-1F3FD": {
 		"key": "1F470-1F3FD",
 		"value": "👰🏽",
-		"descriptor": "Bride With Veil: Medium Skin Tone"
+		"descriptor": "Person With Veil: Medium Skin Tone"
 	},
 	"1F470-1F3FE": {
 		"key": "1F470-1F3FE",
 		"value": "👰🏾",
-		"descriptor": "Bride With Veil: Medium-Dark Skin Tone"
+		"descriptor": "Person With Veil: Medium-Dark Skin Tone"
 	},
 	"1F470-1F3FF": {
 		"key": "1F470-1F3FF",
 		"value": "👰🏿",
-		"descriptor": "Bride With Veil: Dark Skin Tone"
+		"descriptor": "Person With Veil: Dark Skin Tone"
 	},
 	"1F471": {
 		"key": "1F471",
@@ -6302,32 +6302,32 @@
 	"1F472": {
 		"key": "1F472",
 		"value": "👲",
-		"descriptor": "Man With Skullcap"
+		"descriptor": "Person With Skullcap"
 	},
 	"1F472-1F3FB": {
 		"key": "1F472-1F3FB",
 		"value": "👲🏻",
-		"descriptor": "Man With Skullcap: Light Skin Tone"
+		"descriptor": "Person With Skullcap: Light Skin Tone"
 	},
 	"1F472-1F3FC": {
 		"key": "1F472-1F3FC",
 		"value": "👲🏼",
-		"descriptor": "Man With Skullcap: Medium-Light Skin Tone"
+		"descriptor": "Person With Skullcap: Medium-Light Skin Tone"
 	},
 	"1F472-1F3FD": {
 		"key": "1F472-1F3FD",
 		"value": "👲🏽",
-		"descriptor": "Man With Skullcap: Medium Skin Tone"
+		"descriptor": "Person With Skullcap: Medium Skin Tone"
 	},
 	"1F472-1F3FE": {
 		"key": "1F472-1F3FE",
 		"value": "👲🏾",
-		"descriptor": "Man With Skullcap: Medium-Dark Skin Tone"
+		"descriptor": "Person With Skullcap: Medium-Dark Skin Tone"
 	},
 	"1F472-1F3FF": {
 		"key": "1F472-1F3FF",
 		"value": "👲🏿",
-		"descriptor": "Man With Skullcap: Dark Skin Tone"
+		"descriptor": "Person With Skullcap: Dark Skin Tone"
 	},
 	"1F473": {
 		"key": "1F473",
@@ -6687,7 +6687,7 @@
 	"1F47F": {
 		"key": "1F47F",
 		"value": "👿",
-		"descriptor": "Angry Face With Horns"
+		"descriptor": "Angry Face with Horns"
 	},
 	"1F480": {
 		"key": "1F480",
@@ -7167,7 +7167,7 @@
 	"1F491": {
 		"key": "1F491",
 		"value": "💑",
-		"descriptor": "Couple With Heart"
+		"descriptor": "Couple with Heart"
 	},
 	"1F492": {
 		"key": "1F492",
@@ -7202,7 +7202,7 @@
 	"1F498": {
 		"key": "1F498",
 		"value": "💘",
-		"descriptor": "Heart With Arrow"
+		"descriptor": "Heart with Arrow"
 	},
 	"1F499": {
 		"key": "1F499",
@@ -7227,7 +7227,7 @@
 	"1F49D": {
 		"key": "1F49D",
 		"value": "💝",
-		"descriptor": "Heart With Ribbon"
+		"descriptor": "Heart with Ribbon"
 	},
 	"1F49E": {
 		"key": "1F49E",
@@ -7242,7 +7242,7 @@
 	"1F4A0": {
 		"key": "1F4A0",
 		"value": "💠",
-		"descriptor": "Diamond With a Dot"
+		"descriptor": "Diamond with a Dot"
 	},
 	"1F4A1": {
 		"key": "1F4A1",
@@ -7387,12 +7387,12 @@
 	"1F4B8": {
 		"key": "1F4B8",
 		"value": "💸",
-		"descriptor": "Money With Wings"
+		"descriptor": "Money with Wings"
 	},
 	"1F4B9": {
 		"key": "1F4B9",
 		"value": "💹",
-		"descriptor": "Chart Increasing With Yen"
+		"descriptor": "Chart Increasing with Yen"
 	},
 	"1F4BA": {
 		"key": "1F4BA",
@@ -7442,7 +7442,7 @@
 	"1F4C3": {
 		"key": "1F4C3",
 		"value": "📃",
-		"descriptor": "Page With Curl"
+		"descriptor": "Page with Curl"
 	},
 	"1F4C4": {
 		"key": "1F4C4",
@@ -7527,7 +7527,7 @@
 	"1F4D4": {
 		"key": "1F4D4",
 		"value": "📔",
-		"descriptor": "Notebook With Decorative Cover"
+		"descriptor": "Notebook with Decorative Cover"
 	},
 	"1F4D5": {
 		"key": "1F4D5",
@@ -7632,27 +7632,27 @@
 	"1F4E9": {
 		"key": "1F4E9",
 		"value": "📩",
-		"descriptor": "Envelope With Arrow"
+		"descriptor": "Envelope with Arrow"
 	},
 	"1F4EA": {
 		"key": "1F4EA",
 		"value": "📪",
-		"descriptor": "Closed Mailbox With Lowered Flag"
+		"descriptor": "Closed Mailbox with Lowered Flag"
 	},
 	"1F4EB": {
 		"key": "1F4EB",
 		"value": "📫",
-		"descriptor": "Closed Mailbox With Raised Flag"
+		"descriptor": "Closed Mailbox with Raised Flag"
 	},
 	"1F4EC": {
 		"key": "1F4EC",
 		"value": "📬",
-		"descriptor": "Open Mailbox With Raised Flag"
+		"descriptor": "Open Mailbox with Raised Flag"
 	},
 	"1F4ED": {
 		"key": "1F4ED",
 		"value": "📭",
-		"descriptor": "Open Mailbox With Lowered Flag"
+		"descriptor": "Open Mailbox with Lowered Flag"
 	},
 	"1F4EE": {
 		"key": "1F4EE",
@@ -7677,7 +7677,7 @@
 	"1F4F2": {
 		"key": "1F4F2",
 		"value": "📲",
-		"descriptor": "Mobile Phone With Arrow"
+		"descriptor": "Mobile Phone with Arrow"
 	},
 	"1F4F3": {
 		"key": "1F4F3",
@@ -7707,7 +7707,7 @@
 	"1F4F8": {
 		"key": "1F4F8",
 		"value": "📸",
-		"descriptor": "Camera With Flash"
+		"descriptor": "Camera with Flash"
 	},
 	"1F4F9": {
 		"key": "1F4F9",
@@ -7817,12 +7817,12 @@
 	"1F50F": {
 		"key": "1F50F",
 		"value": "🔏",
-		"descriptor": "Locked With Pen"
+		"descriptor": "Locked with Pen"
 	},
 	"1F510": {
 		"key": "1F510",
 		"value": "🔐",
-		"descriptor": "Locked With Key"
+		"descriptor": "Locked with Key"
 	},
 	"1F511": {
 		"key": "1F511",
@@ -7847,7 +7847,7 @@
 	"1F515": {
 		"key": "1F515",
 		"value": "🔕",
-		"descriptor": "Bell With Slash"
+		"descriptor": "Bell with Slash"
 	},
 	"1F516": {
 		"key": "1F516",
@@ -8217,32 +8217,32 @@
 	"1F574-1F3FB": {
 		"key": "1F574-1F3FB",
 		"value": "🕴🏻",
-		"descriptor": "Man in Suit Levitating: Light Skin Tone"
+		"descriptor": "Person in Suit Levitating: Light Skin Tone"
 	},
 	"1F574-1F3FC": {
 		"key": "1F574-1F3FC",
 		"value": "🕴🏼",
-		"descriptor": "Man in Suit Levitating: Medium-Light Skin Tone"
+		"descriptor": "Person in Suit Levitating: Medium-Light Skin Tone"
 	},
 	"1F574-1F3FD": {
 		"key": "1F574-1F3FD",
 		"value": "🕴🏽",
-		"descriptor": "Man in Suit Levitating: Medium Skin Tone"
+		"descriptor": "Person in Suit Levitating: Medium Skin Tone"
 	},
 	"1F574-1F3FE": {
 		"key": "1F574-1F3FE",
 		"value": "🕴🏾",
-		"descriptor": "Man in Suit Levitating: Medium-Dark Skin Tone"
+		"descriptor": "Person in Suit Levitating: Medium-Dark Skin Tone"
 	},
 	"1F574-1F3FF": {
 		"key": "1F574-1F3FF",
 		"value": "🕴🏿",
-		"descriptor": "Man in Suit Levitating: Dark Skin Tone"
+		"descriptor": "Person in Suit Levitating: Dark Skin Tone"
 	},
 	"1F574-FE0F": {
 		"key": "1F574-FE0F",
 		"value": "🕴️",
-		"descriptor": "Man in Suit Levitating"
+		"descriptor": "Person in Suit Levitating"
 	},
 	"1F575-1F3FB": {
 		"key": "1F575-1F3FB",
@@ -8412,32 +8412,32 @@
 	"1F590-1F3FB": {
 		"key": "1F590-1F3FB",
 		"value": "🖐🏻",
-		"descriptor": "Hand With Fingers Splayed: Light Skin Tone"
+		"descriptor": "Hand with Fingers Splayed: Light Skin Tone"
 	},
 	"1F590-1F3FC": {
 		"key": "1F590-1F3FC",
 		"value": "🖐🏼",
-		"descriptor": "Hand With Fingers Splayed: Medium-Light Skin Tone"
+		"descriptor": "Hand with Fingers Splayed: Medium-Light Skin Tone"
 	},
 	"1F590-1F3FD": {
 		"key": "1F590-1F3FD",
 		"value": "🖐🏽",
-		"descriptor": "Hand With Fingers Splayed: Medium Skin Tone"
+		"descriptor": "Hand with Fingers Splayed: Medium Skin Tone"
 	},
 	"1F590-1F3FE": {
 		"key": "1F590-1F3FE",
 		"value": "🖐🏾",
-		"descriptor": "Hand With Fingers Splayed: Medium-Dark Skin Tone"
+		"descriptor": "Hand with Fingers Splayed: Medium-Dark Skin Tone"
 	},
 	"1F590-1F3FF": {
 		"key": "1F590-1F3FF",
 		"value": "🖐🏿",
-		"descriptor": "Hand With Fingers Splayed: Dark Skin Tone"
+		"descriptor": "Hand with Fingers Splayed: Dark Skin Tone"
 	},
 	"1F590-FE0F": {
 		"key": "1F590-FE0F",
 		"value": "🖐️",
-		"descriptor": "Hand With Fingers Splayed"
+		"descriptor": "Hand with Fingers Splayed"
 	},
 	"1F595": {
 		"key": "1F595",
@@ -8597,7 +8597,7 @@
 	"1F5F3-FE0F": {
 		"key": "1F5F3-FE0F",
 		"value": "🗳️",
-		"descriptor": "Ballot Box With Ballot"
+		"descriptor": "Ballot Box with Ballot"
 	},
 	"1F5FA-FE0F": {
 		"key": "1F5FA-FE0F",
@@ -8637,27 +8637,27 @@
 	"1F601": {
 		"key": "1F601",
 		"value": "😁",
-		"descriptor": "Beaming Face With Smiling Eyes"
+		"descriptor": "Beaming Face with Smiling Eyes"
 	},
 	"1F602": {
 		"key": "1F602",
 		"value": "😂",
-		"descriptor": "Face With Tears of Joy"
+		"descriptor": "Face with Tears of Joy"
 	},
 	"1F603": {
 		"key": "1F603",
 		"value": "😃",
-		"descriptor": "Grinning Face With Big Eyes"
+		"descriptor": "Grinning Face with Big Eyes"
 	},
 	"1F604": {
 		"key": "1F604",
 		"value": "😄",
-		"descriptor": "Grinning Face With Smiling Eyes"
+		"descriptor": "Grinning Face with Smiling Eyes"
 	},
 	"1F605": {
 		"key": "1F605",
 		"value": "😅",
-		"descriptor": "Grinning Face With Sweat"
+		"descriptor": "Grinning Face with Sweat"
 	},
 	"1F606": {
 		"key": "1F606",
@@ -8667,12 +8667,12 @@
 	"1F607": {
 		"key": "1F607",
 		"value": "😇",
-		"descriptor": "Smiling Face With Halo"
+		"descriptor": "Smiling Face with Halo"
 	},
 	"1F608": {
 		"key": "1F608",
 		"value": "😈",
-		"descriptor": "Smiling Face With Horns"
+		"descriptor": "Smiling Face with Horns"
 	},
 	"1F609": {
 		"key": "1F609",
@@ -8682,7 +8682,7 @@
 	"1F60A": {
 		"key": "1F60A",
 		"value": "😊",
-		"descriptor": "Smiling Face With Smiling Eyes"
+		"descriptor": "Smiling Face with Smiling Eyes"
 	},
 	"1F60B": {
 		"key": "1F60B",
@@ -8697,12 +8697,12 @@
 	"1F60D": {
 		"key": "1F60D",
 		"value": "😍",
-		"descriptor": "Smiling Face With Heart-Eyes"
+		"descriptor": "Smiling Face with Heart-Eyes"
 	},
 	"1F60E": {
 		"key": "1F60E",
 		"value": "😎",
-		"descriptor": "Smiling Face With Sunglasses"
+		"descriptor": "Smiling Face with Sunglasses"
 	},
 	"1F60F": {
 		"key": "1F60F",
@@ -8727,7 +8727,7 @@
 	"1F613": {
 		"key": "1F613",
 		"value": "😓",
-		"descriptor": "Downcast Face With Sweat"
+		"descriptor": "Downcast Face with Sweat"
 	},
 	"1F614": {
 		"key": "1F614",
@@ -8757,27 +8757,27 @@
 	"1F619": {
 		"key": "1F619",
 		"value": "😙",
-		"descriptor": "Kissing Face With Smiling Eyes"
+		"descriptor": "Kissing Face with Smiling Eyes"
 	},
 	"1F61A": {
 		"key": "1F61A",
 		"value": "😚",
-		"descriptor": "Kissing Face With Closed Eyes"
+		"descriptor": "Kissing Face with Closed Eyes"
 	},
 	"1F61B": {
 		"key": "1F61B",
 		"value": "😛",
-		"descriptor": "Face With Tongue"
+		"descriptor": "Face with Tongue"
 	},
 	"1F61C": {
 		"key": "1F61C",
 		"value": "😜",
-		"descriptor": "Winking Face With Tongue"
+		"descriptor": "Winking Face with Tongue"
 	},
 	"1F61D": {
 		"key": "1F61D",
 		"value": "😝",
-		"descriptor": "Squinting Face With Tongue"
+		"descriptor": "Squinting Face with Tongue"
 	},
 	"1F61E": {
 		"key": "1F61E",
@@ -8812,7 +8812,7 @@
 	"1F624": {
 		"key": "1F624",
 		"value": "😤",
-		"descriptor": "Face With Steam From Nose"
+		"descriptor": "Face with Steam From Nose"
 	},
 	"1F625": {
 		"key": "1F625",
@@ -8822,7 +8822,7 @@
 	"1F626": {
 		"key": "1F626",
 		"value": "😦",
-		"descriptor": "Frowning Face With Open Mouth"
+		"descriptor": "Frowning Face with Open Mouth"
 	},
 	"1F627": {
 		"key": "1F627",
@@ -8862,7 +8862,7 @@
 	"1F62E": {
 		"key": "1F62E",
 		"value": "😮",
-		"descriptor": "Face With Open Mouth"
+		"descriptor": "Face with Open Mouth"
 	},
 	"1F62F": {
 		"key": "1F62F",
@@ -8872,7 +8872,7 @@
 	"1F630": {
 		"key": "1F630",
 		"value": "😰",
-		"descriptor": "Anxious Face With Sweat"
+		"descriptor": "Anxious Face with Sweat"
 	},
 	"1F631": {
 		"key": "1F631",
@@ -8907,17 +8907,17 @@
 	"1F637": {
 		"key": "1F637",
 		"value": "😷",
-		"descriptor": "Face With Medical Mask"
+		"descriptor": "Face with Medical Mask"
 	},
 	"1F638": {
 		"key": "1F638",
 		"value": "😸",
-		"descriptor": "Grinning Cat With Smiling Eyes"
+		"descriptor": "Grinning Cat with Smiling Eyes"
 	},
 	"1F639": {
 		"key": "1F639",
 		"value": "😹",
-		"descriptor": "Cat With Tears of Joy"
+		"descriptor": "Cat with Tears of Joy"
 	},
 	"1F63A": {
 		"key": "1F63A",
@@ -8927,12 +8927,12 @@
 	"1F63B": {
 		"key": "1F63B",
 		"value": "😻",
-		"descriptor": "Smiling Cat With Heart-Eyes"
+		"descriptor": "Smiling Cat with Heart-Eyes"
 	},
 	"1F63C": {
 		"key": "1F63C",
 		"value": "😼",
-		"descriptor": "Cat With Wry Smile"
+		"descriptor": "Cat with Wry Smile"
 	},
 	"1F63D": {
 		"key": "1F63D",
@@ -8972,7 +8972,7 @@
 	"1F644": {
 		"key": "1F644",
 		"value": "🙄",
-		"descriptor": "Face With Rolling Eyes"
+		"descriptor": "Face with Rolling Eyes"
 	},
 	"1F645": {
 		"key": "1F645",
@@ -10552,7 +10552,7 @@
 	"1F912": {
 		"key": "1F912",
 		"value": "🤒",
-		"descriptor": "Face With Thermometer"
+		"descriptor": "Face with Thermometer"
 	},
 	"1F913": {
 		"key": "1F913",
@@ -10567,7 +10567,7 @@
 	"1F915": {
 		"key": "1F915",
 		"value": "🤕",
-		"descriptor": "Face With Head-Bandage"
+		"descriptor": "Face with Head-Bandage"
 	},
 	"1F916": {
 		"key": "1F916",
@@ -10922,7 +10922,7 @@
 	"1F928": {
 		"key": "1F928",
 		"value": "🤨",
-		"descriptor": "Face With Raised Eyebrow"
+		"descriptor": "Face with Raised Eyebrow"
 	},
 	"1F929": {
 		"key": "1F929",
@@ -10942,12 +10942,12 @@
 	"1F92C": {
 		"key": "1F92C",
 		"value": "🤬",
-		"descriptor": "Face With Symbols on Mouth"
+		"descriptor": "Face with Symbols on Mouth"
 	},
 	"1F92D": {
 		"key": "1F92D",
 		"value": "🤭",
-		"descriptor": "Face With Hand Over Mouth"
+		"descriptor": "Face with Hand Over Mouth"
 	},
 	"1F92E": {
 		"key": "1F92E",
@@ -11112,32 +11112,32 @@
 	"1F935": {
 		"key": "1F935",
 		"value": "🤵",
-		"descriptor": "Man in Tuxedo"
+		"descriptor": "Person in Tuxedo"
 	},
 	"1F935-1F3FB": {
 		"key": "1F935-1F3FB",
 		"value": "🤵🏻",
-		"descriptor": "Man in Tuxedo: Light Skin Tone"
+		"descriptor": "Person in Tuxedo: Light Skin Tone"
 	},
 	"1F935-1F3FC": {
 		"key": "1F935-1F3FC",
 		"value": "🤵🏼",
-		"descriptor": "Man in Tuxedo: Medium-Light Skin Tone"
+		"descriptor": "Person in Tuxedo: Medium-Light Skin Tone"
 	},
 	"1F935-1F3FD": {
 		"key": "1F935-1F3FD",
 		"value": "🤵🏽",
-		"descriptor": "Man in Tuxedo: Medium Skin Tone"
+		"descriptor": "Person in Tuxedo: Medium Skin Tone"
 	},
 	"1F935-1F3FE": {
 		"key": "1F935-1F3FE",
 		"value": "🤵🏾",
-		"descriptor": "Man in Tuxedo: Medium-Dark Skin Tone"
+		"descriptor": "Person in Tuxedo: Medium-Dark Skin Tone"
 	},
 	"1F935-1F3FF": {
 		"key": "1F935-1F3FF",
 		"value": "🤵🏿",
-		"descriptor": "Man in Tuxedo: Dark Skin Tone"
+		"descriptor": "Person in Tuxedo: Dark Skin Tone"
 	},
 	"1F936": {
 		"key": "1F936",
@@ -11817,12 +11817,12 @@
 	"1F963": {
 		"key": "1F963",
 		"value": "🥣",
-		"descriptor": "Bowl With Spoon"
+		"descriptor": "Bowl with Spoon"
 	},
 	"1F964": {
 		"key": "1F964",
 		"value": "🥤",
-		"descriptor": "Cup With Straw"
+		"descriptor": "Cup with Straw"
 	},
 	"1F965": {
 		"key": "1F965",
@@ -11882,7 +11882,7 @@
 	"1F970": {
 		"key": "1F970",
 		"value": "🥰",
-		"descriptor": "Smiling Face With Hearts"
+		"descriptor": "Smiling Face with Hearts"
 	},
 	"1F971": {
 		"key": "1F971",
@@ -12152,7 +12152,7 @@
 	"1F9AF": {
 		"key": "1F9AF",
 		"value": "🦯",
-		"descriptor": "Probing Cane"
+		"descriptor": "White Cane"
 	},
 	"1F9B0": {
 		"key": "1F9B0",
@@ -12432,32 +12432,32 @@
 	"1F9BB": {
 		"key": "1F9BB",
 		"value": "🦻",
-		"descriptor": "Ear With Hearing Aid"
+		"descriptor": "Ear with Hearing Aid"
 	},
 	"1F9BB-1F3FB": {
 		"key": "1F9BB-1F3FB",
 		"value": "🦻🏻",
-		"descriptor": "Ear With Hearing Aid: Light Skin Tone"
+		"descriptor": "Ear with Hearing Aid: Light Skin Tone"
 	},
 	"1F9BB-1F3FC": {
 		"key": "1F9BB-1F3FC",
 		"value": "🦻🏼",
-		"descriptor": "Ear With Hearing Aid: Medium-Light Skin Tone"
+		"descriptor": "Ear with Hearing Aid: Medium-Light Skin Tone"
 	},
 	"1F9BB-1F3FD": {
 		"key": "1F9BB-1F3FD",
 		"value": "🦻🏽",
-		"descriptor": "Ear With Hearing Aid: Medium Skin Tone"
+		"descriptor": "Ear with Hearing Aid: Medium Skin Tone"
 	},
 	"1F9BB-1F3FE": {
 		"key": "1F9BB-1F3FE",
 		"value": "🦻🏾",
-		"descriptor": "Ear With Hearing Aid: Medium-Dark Skin Tone"
+		"descriptor": "Ear with Hearing Aid: Medium-Dark Skin Tone"
 	},
 	"1F9BB-1F3FF": {
 		"key": "1F9BB-1F3FF",
 		"value": "🦻🏿",
-		"descriptor": "Ear With Hearing Aid: Dark Skin Tone"
+		"descriptor": "Ear with Hearing Aid: Dark Skin Tone"
 	},
 	"1F9BC": {
 		"key": "1F9BC",
@@ -12807,7 +12807,7 @@
 	"1F9D0": {
 		"key": "1F9D0",
 		"value": "🧐",
-		"descriptor": "Face With Monocle"
+		"descriptor": "Face with Monocle"
 	},
 	"1F9D1": {
 		"key": "1F9D1",
@@ -12912,7 +12912,7 @@
 	"1F9D1-1F3FB-200D-1F9AF": {
 		"key": "1F9D1-1F3FB-200D-1F9AF",
 		"value": "🧑🏻‍🦯",
-		"descriptor": "Person With Probing Cane: Light Skin Tone"
+		"descriptor": "Person with White Cane: Light Skin Tone"
 	},
 	"1F9D1-1F3FB-200D-1F9B0": {
 		"key": "1F9D1-1F3FB-200D-1F9B0",
@@ -12942,7 +12942,7 @@
 	"1F9D1-1F3FB-200D-1F9BD": {
 		"key": "1F9D1-1F3FB-200D-1F9BD",
 		"value": "🧑🏻‍🦽",
-		"descriptor": "Person in Manual Wheelchair: Light Skin Ton"
+		"descriptor": "Person in Manual Wheelchair: Light Skin Tone"
 	},
 	"1F9D1-1F3FB-200D-2695-FE0F": {
 		"key": "1F9D1-1F3FB-200D-2695-FE0F",
@@ -13057,7 +13057,7 @@
 	"1F9D1-1F3FC-200D-1F9AF": {
 		"key": "1F9D1-1F3FC-200D-1F9AF",
 		"value": "🧑🏼‍🦯",
-		"descriptor": "Person With Probing Cane: Medium-Light Skin Tone"
+		"descriptor": "Person with White Cane: Medium-Light Skin Tone"
 	},
 	"1F9D1-1F3FC-200D-1F9B0": {
 		"key": "1F9D1-1F3FC-200D-1F9B0",
@@ -13202,7 +13202,7 @@
 	"1F9D1-1F3FD-200D-1F9AF": {
 		"key": "1F9D1-1F3FD-200D-1F9AF",
 		"value": "🧑🏽‍🦯",
-		"descriptor": "Person With Probing Cane: Medium Skin Tone"
+		"descriptor": "Person with White Cane: Medium Skin Tone"
 	},
 	"1F9D1-1F3FD-200D-1F9B0": {
 		"key": "1F9D1-1F3FD-200D-1F9B0",
@@ -13347,7 +13347,7 @@
 	"1F9D1-1F3FE-200D-1F9AF": {
 		"key": "1F9D1-1F3FE-200D-1F9AF",
 		"value": "🧑🏾‍🦯",
-		"descriptor": "Person With Probing Cane: Medium-Dark Skin Tone"
+		"descriptor": "Person with White Cane: Medium-Dark Skin Tone"
 	},
 	"1F9D1-1F3FE-200D-1F9B0": {
 		"key": "1F9D1-1F3FE-200D-1F9B0",
@@ -13492,7 +13492,7 @@
 	"1F9D1-1F3FF-200D-1F9AF": {
 		"key": "1F9D1-1F3FF-200D-1F9AF",
 		"value": "🧑🏿‍🦯",
-		"descriptor": "Person With Probing Cane: Dark Skin Tone"
+		"descriptor": "Person with White Cane: Dark Skin Tone"
 	},
 	"1F9D1-1F3FF-200D-1F9B0": {
 		"key": "1F9D1-1F3FF-200D-1F9B0",
@@ -13612,7 +13612,7 @@
 	"1F9D1-200D-1F9AF": {
 		"key": "1F9D1-200D-1F9AF",
 		"value": "🧑‍🦯",
-		"descriptor": "Person With Probing Cane"
+		"descriptor": "Person with White Cane"
 	},
 	"1F9D1-200D-1F9B0": {
 		"key": "1F9D1-200D-1F9B0",
@@ -13752,32 +13752,32 @@
 	"1F9D5": {
 		"key": "1F9D5",
 		"value": "🧕",
-		"descriptor": "Woman With Headscarf"
+		"descriptor": "Woman with Headscarf"
 	},
 	"1F9D5-1F3FB": {
 		"key": "1F9D5-1F3FB",
 		"value": "🧕🏻",
-		"descriptor": "Woman With Headscarf: Light Skin Tone"
+		"descriptor": "Woman with Headscarf: Light Skin Tone"
 	},
 	"1F9D5-1F3FC": {
 		"key": "1F9D5-1F3FC",
 		"value": "🧕🏼",
-		"descriptor": "Woman With Headscarf: Medium-Light Skin Tone"
+		"descriptor": "Woman with Headscarf: Medium-Light Skin Tone"
 	},
 	"1F9D5-1F3FD": {
 		"key": "1F9D5-1F3FD",
 		"value": "🧕🏽",
-		"descriptor": "Woman With Headscarf: Medium Skin Tone"
+		"descriptor": "Woman with Headscarf: Medium Skin Tone"
 	},
 	"1F9D5-1F3FE": {
 		"key": "1F9D5-1F3FE",
 		"value": "🧕🏾",
-		"descriptor": "Woman With Headscarf: Medium-Dark Skin Tone"
+		"descriptor": "Woman with Headscarf: Medium-Dark Skin Tone"
 	},
 	"1F9D5-1F3FF": {
 		"key": "1F9D5-1F3FF",
 		"value": "🧕🏿",
-		"descriptor": "Woman With Headscarf: Dark Skin Tone"
+		"descriptor": "Woman with Headscarf: Dark Skin Tone"
 	},
 	"1F9D6": {
 		"key": "1F9D6",
@@ -15002,12 +15002,12 @@
 	"2611-FE0F": {
 		"key": "2611-FE0F",
 		"value": "☑️",
-		"descriptor": "Check Box With Check"
+		"descriptor": "Check Box with Check"
 	},
 	"2614": {
 		"key": "2614",
 		"value": "☔",
-		"descriptor": "Umbrella With Rain Drops"
+		"descriptor": "Umbrella with Rain Drops"
 	},
 	"2615": {
 		"key": "2615",
@@ -15297,7 +15297,7 @@
 	"26C8-FE0F": {
 		"key": "26C8-FE0F",
 		"value": "⛈️",
-		"descriptor": "Cloud With Lightning and Rain"
+		"descriptor": "Cloud with Lightning and Rain"
 	},
 	"26CE": {
 		"key": "26CE",
@@ -15632,7 +15632,7 @@
 	"2716-FE0F": {
 		"key": "2716-FE0F",
 		"value": "✖️",
-		"descriptor": "Multiplication Sign"
+		"descriptor": "Multiply"
 	},
 	"271D-FE0F": {
 		"key": "271D-FE0F",
@@ -15712,17 +15712,17 @@
 	"2795": {
 		"key": "2795",
 		"value": "➕",
-		"descriptor": "Plus Sign"
+		"descriptor": "Plus"
 	},
 	"2796": {
 		"key": "2796",
 		"value": "➖",
-		"descriptor": "Minus Sign"
+		"descriptor": "Minus"
 	},
 	"2797": {
 		"key": "2797",
 		"value": "➗",
-		"descriptor": "Division Sign"
+		"descriptor": "Divide"
 	},
 	"27A1-FE0F": {
 		"key": "27A1-FE0F",
@@ -15868,5 +15868,10 @@
 		"key": "AE-FE0F",
 		"value": "®️",
 		"descriptor": "Registered"
+	},
+	"FE0F": {
+		"key": "FE0F",
+		"value": "️",
+		"descriptor": "Variation Selector-16"
 	}
 }
