@@ -18,23 +18,6 @@ type Emoji struct {
 	Descriptor string `json:"descriptor"`
 }
 
-// Unmarshal the emoji JSON into the Emojis map
-func init() {
-	// Work out where we are in relation to the caller
-	_, filename, _, ok := runtime.Caller(0)
-	if !ok {
-		panic("No caller information")
-	}
-
-	// Open the Emoji definition JSON and Unmarshal into map
-	runtimePath := path.Join(path.Dir(filename), "data", "emoji.json")
-	loadErr := LoadEmojiFile(runtimePath) // Attempt to load from the runtime path, if we fail we'll be using our built-in or called panic
-
-	if len(Emojis) == 0 { // If we don't have Emojis map content
-		panic(loadErr)
-	}
-}
-
 // LoadEmojiFile will attempt to load and parse the provided full path to the emoji.json file
 // In the event we fail to read the file or fail to unmarshal, we will return an error
 func LoadEmojiFile(filepath string) (loadErr error) {
