@@ -1,7 +1,11 @@
-![Go-Emoji-Utils](http://up.tmdvs.me/52074bebc945/d)
-
 # Go Emoji Utils
+
 A collection of useful functions for working with emoji. For example: look up the definition of a specific emoji, or search for all occurrences of emojis in a string.
+
+Note: This is a fork of [github.com/tmdvs/Go-Emoji-Utils](https://github.com/tmdvs/Go-Emoji-Utils). The purpose of this fork is to provide a reduced subset of functionality than its parent project, specifically:
+
+1. We do not ship a pre-compiled list of emojidata in the package itself. The expectation if that the developers uses our load function prior to any further calls in the package.
+2. `emoji.json` loading is not performed during init, as the expectation is this will be used in a broader set of environments where the data file configuration may be desirable, not linked to runtime locations, or require installation side-by-side to the binary.
 
 ## Features
  - [x] Find all occurrences of emoji in a string

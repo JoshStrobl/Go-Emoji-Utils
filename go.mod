@@ -1,3 +1,3 @@
-module github.com/tmdvs/Go-Emoji-Utils
+module github.com/JoshStrobl/Go-Emoji-Utils
 
 go 1.14

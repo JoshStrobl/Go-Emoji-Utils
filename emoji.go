@@ -2,14 +2,19 @@ package emoji
 
 import (
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io/ioutil"
-	"path"
-	"runtime"
 	"strings"
 
-	"github.com/tmdvs/Go-Emoji-Utils/utils"
+	"github.com/JoshStrobl/Go-Emoji-Utils/utils"
 )
+
+var Emojis map[string]Emoji
+
+func init() {
+	Emojis = make(map[string]Emoji) // Make our map of Emojis
+}
 
 // Emoji - Struct representing Emoji
 type Emoji struct {
@@ -31,6 +36,8 @@ func LoadEmojiFile(filepath string) (loadErr error) {
 
 	if len(tempEmojis) != 0 { // If we have emoji map contents
 		Emojis = tempEmojis // Override the Emojis map
+	} else {
+		panic(errors.New("emoji.json does not contain any emojis"))
 	}
 
 	return

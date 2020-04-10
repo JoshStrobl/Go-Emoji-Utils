@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/tmdvs/Go-Emoji-Utils/utils"
+	"github.com/JoshStrobl/Go-Emoji-Utils/utils"
 )
 
 // SearchResult - Occurence of an emoji in a string
